@@ -1,9 +1,10 @@
 # H1 Data Science
----
-# H2 What is Data Science?
----
+
+## H2 What is Data Science?
+
 **Data Science** is a *multidisciplinary* field that combines statistics, computer science, and domain knowledge.
-# H3 ** Data Types: **
+
+### H3 **Data Types:**
 - Structured Data
 - Semi-Structured Data
 - Unstructured Data
