@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7aba98c9-dd40-44f9-9f39-b447a3fd2e20)# H1 Data Science
+# H1 Data Science
 ---
 # H2 What is Data Science?
 ---
@@ -11,4 +11,7 @@
 - Semi-Structured Data
 - Unstructured Data
 
-
+| Structured | Semi-Structured | Unstructured |
+| ------------- | ------------- | ------------- |
+| It is data that has been organized into a strict schema. | It is data that does not conform to a schema but has some structure. | It is data that has no schema. | 
+| e.g: tables| e.g: xml | e.g: photos | 
